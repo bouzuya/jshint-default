@@ -1,6 +1,6 @@
 {
   "name": "jshint-default",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "JSHint default reporter",
   "main": "index.js",
   "scripts": {
