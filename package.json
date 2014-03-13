@@ -1,0 +1,25 @@
+{
+  "name": "jshint-default",
+  "version": "0.1.0",
+  "description": "JSHint default reporter",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha -R spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bouzuya/jshint-default"
+  },
+  "keywords": [
+    "jshint",
+    "jshint-reporter"
+  ],
+  "author": "bouzuya",
+  "license": [
+    "WTFPL",
+    {
+      "type": "MIT",
+      "url": "https://github.com/jshint/jshint/blob/master/LICENSE"
+    }
+  ]
+}
